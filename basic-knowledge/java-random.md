@@ -1,4 +1,4 @@
-```
+```java
 import java.nio.charset.Charset;
 import java.security.NoSuchAlgorithmException;
 import java.security.SecureRandom;
