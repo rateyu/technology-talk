@@ -104,3 +104,7 @@ ps：查看git log，会发现原来已经提交过的log也会被删除
 	查看代码改动点（所有）
 
 
+* git 本地项目添加多个远程仓库
+
+git remote add mytalk https://github.com/rateyu/technology-talk.git
+git push mytalk
